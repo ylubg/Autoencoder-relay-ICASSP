@@ -1,0 +1,2 @@
+# Autoencoder-relay-ICASSP
+Slides for a paper presented in ICASSP 2020, "A LEARNING APPROACH TO COOPERATIVE COMMUNICATION SYSTEM DESIGN"
